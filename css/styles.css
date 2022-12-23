@@ -1,18 +1,17 @@
 /*__________________TAG SELECTORS___________________*/
 
 body {
-  background-color: #EAFDFC;
+  background-color: #E0EBE8;
 }
 
 h1 {
-  color: #82AAE3;
+  color: #4AB39B;
   font-family: cursive;
   font-size: 36px;
-  font-style: italic;
 }
 
 h3 {
-  color: #82AAE3;
+  color: #4AB39B;
   font-family: cursive;
   font-size: 24px;
   font-style: italic;
@@ -35,15 +34,6 @@ hr {
 }
 
 .highlight:hover {
-  background-color: #82AAE3;
+  background-color: #4AB39B;
   font-weight: bold;
-}
-
-
-
-/*__________________ID SELECTORS___________________*/
-/* A specific ID can be used only for ONE HTML ELEMENT, meaning the same ID can't be repetead along the html doc */
-
-#heading {
-  color: orange;
 }
