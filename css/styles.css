@@ -1,0 +1,49 @@
+/*__________________TAG SELECTORS___________________*/
+
+body {
+  background-color: #EAFDFC;
+}
+
+h1 {
+  color: #82AAE3;
+  font-family: cursive;
+  font-size: 36px;
+  font-style: italic;
+}
+
+h3 {
+  color: #82AAE3;
+  font-family: cursive;
+  font-size: 24px;
+  font-style: italic;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 10%;
+}
+
+/*__________________CLASS SELECTORS___________________*/
+/* The same CLASS can be used for MORE THAN ONE HTML ELEMENT. Additionally, ONE HTML ELEMENT CAN HAVE MULTIPLE CLASSES */
+
+.first_title {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.highlight:hover {
+  background-color: #82AAE3;
+  font-weight: bold;
+}
+
+
+
+/*__________________ID SELECTORS___________________*/
+/* A specific ID can be used only for ONE HTML ELEMENT, meaning the same ID can't be repetead along the html doc */
+
+#heading {
+  color: orange;
+}
