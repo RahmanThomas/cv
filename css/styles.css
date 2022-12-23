@@ -37,3 +37,12 @@ hr {
   background-color: #4AB39B;
   font-weight: bold;
 }
+
+
+
+/*__________________ID SELECTORS___________________*/
+/* A specific ID can be used only for ONE HTML ELEMENT, meaning the same ID can't be repetead along the html doc */
+
+#heading {
+  color: orange;
+}
